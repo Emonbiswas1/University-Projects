@@ -1,0 +1,446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\9th SEMESTER\\SuperShopManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|d:\\9th semester\\supershopmanagementsystem\\supershopmanagementsystem\\product information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\product information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\salesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\salesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\salesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\salesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\salesboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\salesboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\salesboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\salesboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\hire employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\hire employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\hire employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\hire employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\salesinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\salesinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SuperShopManagementSystem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\salesinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\salesinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\offerproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\offerproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\product information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\product information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\myprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\myprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\myprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\myprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\salesmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\salesmanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\editprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\editprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|D:\\9th SEMESTER\\SuperShopManagementSystem\\supershopmanagementsystem\\myprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F1088A-A4F6-4F53-8A20-9FA52C75256E}|SuperShopManagementSystem\\SuperShopManagementSystem.csproj|solutionrelative:supershopmanagementsystem\\myprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesBoard.cs",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\SalesBoard.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\SalesBoard.cs",
+              "ToolTip": "D:\\SuperShopManagementSystem\\SuperShopManagementSystem\\SalesBoard.cs*",
+              "RelativeToolTip": "..\\..\\SuperShopManagementSystem\\SuperShopManagementSystem\\SalesBoard.cs*",
+              "ViewState": "AgIAAHgAAAAAAAAAAAArwI4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T05:37:25.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesBoard.cs [Design]",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\SalesBoard.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\SalesBoard.cs",
+              "ToolTip": "D:\\SuperShopManagementSystem\\SuperShopManagementSystem\\SalesBoard.cs [Design]*",
+              "RelativeToolTip": "..\\..\\SuperShopManagementSystem\\SuperShopManagementSystem\\SalesBoard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T05:32:06.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "salesManagement.cs [Design]",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\salesManagement.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\salesManagement.cs",
+              "ToolTip": "D:\\SuperShopManagementSystem\\SuperShopManagementSystem\\salesManagement.cs [Design]",
+              "RelativeToolTip": "..\\..\\SuperShopManagementSystem\\SuperShopManagementSystem\\salesManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T01:40:05.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "salesManagement.cs",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\salesManagement.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\salesManagement.cs",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\salesManagement.cs",
+              "RelativeToolTip": "SuperShopManagementSystem\\salesManagement.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAowEcBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T20:25:12.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hire Employee.cs [Design]",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\Hire Employee.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\Hire Employee.cs",
+              "ToolTip": "D:\\SuperShopManagementSystem\\SuperShopManagementSystem\\Hire Employee.cs [Design]",
+              "RelativeToolTip": "..\\..\\SuperShopManagementSystem\\SuperShopManagementSystem\\Hire Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T03:50:02.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\CustomerDashboard.cs",
+              "ToolTip": "D:\\SuperShopManagementSystem\\SuperShopManagementSystem\\CustomerDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\SuperShopManagementSystem\\SuperShopManagementSystem\\CustomerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:17:40.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product Information.cs [Design]",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\Product Information.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\Product Information.cs",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\Product Information.cs [Design]",
+              "RelativeToolTip": "SuperShopManagementSystem\\Product Information.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T03:33:59.874Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesInformation.cs",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\SalesInformation.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\SalesInformation.cs",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\SalesInformation.cs",
+              "RelativeToolTip": "SuperShopManagementSystem\\SalesInformation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T05:10:18.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hire Employee.cs",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\Hire Employee.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\Hire Employee.cs",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\Hire Employee.cs",
+              "RelativeToolTip": "SuperShopManagementSystem\\Hire Employee.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwF0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T03:52:54.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SuperShopManagementSystem",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\SuperShopManagementSystem.csproj",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\SuperShopManagementSystem.csproj",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\SuperShopManagementSystem.csproj",
+              "RelativeToolTip": "SuperShopManagementSystem\\SuperShopManagementSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-22T05:10:57.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesInformation.cs [Design]",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\SalesInformation.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\SalesInformation.cs",
+              "ToolTip": "D:\\SuperShopManagementSystem\\SuperShopManagementSystem\\SalesInformation.cs [Design]",
+              "RelativeToolTip": "..\\..\\SuperShopManagementSystem\\SuperShopManagementSystem\\SalesInformation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:17:01.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OfferProducts.cs [Design]",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\OfferProducts.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\OfferProducts.cs",
+              "ToolTip": "D:\\SuperShopManagementSystem\\SuperShopManagementSystem\\OfferProducts.cs [Design]",
+              "RelativeToolTip": "..\\..\\SuperShopManagementSystem\\SuperShopManagementSystem\\OfferProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:16:50.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\AdminDashboard.cs",
+              "ToolTip": "D:\\SuperShopManagementSystem\\SuperShopManagementSystem\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\SuperShopManagementSystem\\SuperShopManagementSystem\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T01:43:39.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\Registration.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\Registration.cs",
+              "ToolTip": "D:\\SuperShopManagementSystem\\SuperShopManagementSystem\\Registration.cs [Design]",
+              "RelativeToolTip": "..\\..\\SuperShopManagementSystem\\SuperShopManagementSystem\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:15:12.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\Registration.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\Registration.cs",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\Registration.cs",
+              "RelativeToolTip": "SuperShopManagementSystem\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:15:24.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\Program.cs",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\Program.cs",
+              "RelativeToolTip": "SuperShopManagementSystem\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T04:23:11.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product Information.cs",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\Product Information.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\Product Information.cs",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\Product Information.cs",
+              "RelativeToolTip": "SuperShopManagementSystem\\Product Information.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAIAwwN8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T03:52:59.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "myProfile.cs [Design]",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\myProfile.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\myProfile.cs",
+              "ToolTip": "D:\\SuperShopManagementSystem\\SuperShopManagementSystem\\myProfile.cs [Design]",
+              "RelativeToolTip": "..\\..\\SuperShopManagementSystem\\SuperShopManagementSystem\\myProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T01:49:14.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "myProfile.cs",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\myProfile.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\myProfile.cs",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\myProfile.cs",
+              "RelativeToolTip": "SuperShopManagementSystem\\myProfile.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwE0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T01:42:40.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerDashboard.cs",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\CustomerDashboard.cs",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\CustomerDashboard.cs",
+              "RelativeToolTip": "SuperShopManagementSystem\\CustomerDashboard.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T01:45:33.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "editProfile.cs",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\editProfile.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\editProfile.cs",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\editProfile.cs",
+              "RelativeToolTip": "SuperShopManagementSystem\\editProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwLEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T01:43:56.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeDashboard.cs",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\EmployeeDashboard.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\EmployeeDashboard.cs",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\EmployeeDashboard.cs",
+              "RelativeToolTip": "SuperShopManagementSystem\\EmployeeDashboard.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T01:45:57.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "editProfile.cs [Design]",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\editProfile.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\editProfile.cs",
+              "ToolTip": "C:\\Users\\Tarek_Hasan\\Shortcuts\\Project\\FinalEdited\\SuperShopManagementSystem\\SuperShopManagementSystem\\editProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T19:09:47.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "salesManagement.Designer.cs",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\salesManagement.Designer.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\salesManagement.Designer.cs",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\salesManagement.Designer.cs",
+              "RelativeToolTip": "SuperShopManagementSystem\\salesManagement.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALECAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T01:47:31.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "editProfile.Designer.cs",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\editProfile.Designer.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\editProfile.Designer.cs",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\editProfile.Designer.cs",
+              "RelativeToolTip": "SuperShopManagementSystem\\editProfile.Designer.cs",
+              "ViewState": "AgIAAMIBAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T01:44:15.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ManagerDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\ManagerDashboard.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\ManagerDashboard.cs",
+              "ToolTip": "D:\\SuperShopManagementSystem\\SuperShopManagementSystem\\ManagerDashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\SuperShopManagementSystem\\SuperShopManagementSystem\\ManagerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T19:10:45.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "myProfile.Designer.cs",
+              "DocumentMoniker": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\myProfile.Designer.cs",
+              "RelativeDocumentMoniker": "SuperShopManagementSystem\\myProfile.Designer.cs",
+              "ToolTip": "D:\\9th SEMESTER\\SuperShopManagementSystem\\SuperShopManagementSystem\\myProfile.Designer.cs",
+              "RelativeToolTip": "SuperShopManagementSystem\\myProfile.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T01:43:04.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
