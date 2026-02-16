@@ -1,2 +1,2 @@
-This all are my projects that i have done in my University
+This all are my projects that I have done in my University.
 
